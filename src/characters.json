@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Darrow of Lykos",
+    "pronoun": "He",
+    "color": "Red",
+    "house": "House Mars",
+    "background": "A Red miner who dreams of a better future for his people.",
+    "keyEvents": [
+      "Works in the mines of Mars",
+      "Faces the oppression of the Golds"
+    ]
+  },
+  {
+    "name": "Eo",
+    "pronoun": "She",
+    "color": "Red",
+    "house": "House Mars",
+    "background": "Darrow's wife and a passionate advocate for change.",
+    "keyEvents": [
+      "Inspires Darrow's revolutionary spirit",
+      "Embodies the struggles of the Red class"
+    ]
+  },
+  {
+    "name": "Mustang (Virginia au Augustus)",
+    "pronoun": "She",
+    "color": "Gold",
+    "house": "House Augustus",
+    "background": "An intelligent and ambitious Gold, granddaughter of a powerful leader.",
+    "keyEvents": [
+      "Shows kindness and understanding towards Darrow",
+      "Challenges stereotypes of Golds"
+    ]
+  },
+  {
+    "name": "Sevro au Barca",
+    "pronoun": "He",
+    "color": "Gold",
+    "house": "House Mars",
+    "background": "A cunning and resourceful friend of Darrow.",
+    "keyEvents": [
+      "Supports Darrow in his struggles",
+      "Exhibits unique tactical skills"
+    ]
+  },
+  {
+    "name": "Cassius au Bellona",
+    "pronoun": "He",
+    "color": "Gold",
+    "house": "House Bellona",
+    "background": "A noble Gold who values honor and tradition.",
+    "keyEvents": [
+      "Engages in dueling culture of Golds",
+      "Forms a rivalry with Darrow"
+    ]
+  },
+  {
+    "name": "The Jackal (Augustus au Rhea)",
+    "pronoun": "He",
+    "color": "Gold",
+    "house": "House Augustus",
+    "background": "An ambitious and ruthless character in Gold society.",
+    "keyEvents": [
+      "Shows cunning in his political maneuvers",
+      "Represents the darker side of Golds"
+    ]
+  },
+  {
+    "name": "Roque au Fabii",
+    "pronoun": "He",
+    "color": "Gold",
+    "house": "House Fabii",
+    "background": "Darrow's friend known for his intelligence and loyalty.",
+    "keyEvents": [
+      "Navigates the complexities of friendship",
+      "Demonstrates strong moral values"
+    ]
+  },
+  {
+    "name": "Daxo au Telemanus",
+    "pronoun": "He",
+    "color": "Gold",
+    "house": "House Telemanus",
+    "background": "A loyal ally who supports Darrow's journey.",
+    "keyEvents": [
+      "Assists in Darrow's endeavors",
+      "Represents the camaraderie among Golds"
+    ]
+  },
+  {
+    "name": "Aja au Grimmus",
+    "pronoun": "She",
+    "color": "Gold",
+    "house": "House Grimmus",
+    "background": "A formidable warrior and enforcer known for her skills.",
+    "keyEvents": [
+      "Demonstrates loyalty to her family",
+      "Engages in brutal combat situations"
+    ]
+  },
+  {
+    "name": "Tactus au Rath",
+    "pronoun": "He",
+    "color": "Gold",
+    "house": "House Rath",
+    "background": "A Gold known for his hedonistic lifestyle and cunning.",
+    "keyEvents": [
+      "Exploits his position for personal gain",
+      "Represents the excesses of Gold society"
+    ]
+  },
+  {
+    "name": "Octavia au Lune",
+    "pronoun": "He",
+    "color": "Gold",
+    "house": "House Luna",
+    "background": "The Sovereign of the Society and a powerful political figure.",
+    "keyEvents": [
+      "Wields significant influence over Gold society",
+      "Embodies the ruling class's authority"
+    ]
+  },
+  {
+    "name": "Ragnar Volarus",
+    "pronoun": "He",
+    "color": "Obsidian",
+    "house": "House Mars",
+    "background": "A strong Obsidian warrior with a sense of honor.",
+    "keyEvents": [
+      "Represents the might of the Obsidian class",
+      "Demonstrates loyalty to those he respects"
+    ]
+  },
+  {
+    "name": "Harmony",
+    "pronoun": "She",
+    "color": "Gold",
+    "house": "House Augustus",
+    "background": "A Gold leader known for her strategic mind and political influence.",
+    "keyEvents": [
+      "Leads key diplomatic missions",
+      "Forms crucial alliances within the Golds"
+    ]
+  },
+  {
+    "name": "Ragnar Volarus",
+    "pronoun": "he",
+    "color": "Obsidian",
+    "house": "House Mars",
+    "background": "An Obsidian warrior with a strong sense of honor and loyalty.",
+    "keyEvents": [
+      "Demonstrates exceptional strength in battles",
+      "Forms alliances with key characters"
+    ]
+  },
+  {
+    "name": "Sefi au Nox",
+    "pronoun": "she",
+    "color": "Obsidian",
+    "house": "House Nox",
+    "background": "A fierce and capable Obsidian fighter with a complex past.",
+    "keyEvents": [
+      "Struggles against the oppression of the Obsidian class",
+      "Fights for her ideals and family"
+    ]
+  },
+  {
+    "name": "Titus au Bellona",
+    "pronoun": "he",
+    "color": "Gold",
+    "house": "House Bellona",
+    "background": "A Gold who often appears ruthless in his quest for power.",
+    "keyEvents": [
+      "Engages in political intrigue",
+      "Challenges Darrow in key moments"
+    ]
+  },
+  {
+    "name": "Sirius",
+    "pronoun": "he",
+    "color": "Gold",
+    "house": "House Augustus",
+    "background": "A prominent Gold with ambitions to rise within the Society.",
+    "keyEvents": [
+      "Participates in strategic meetings",
+      "Influences the actions of other Golds"
+    ]
+  },
+  {
+    "name": "Nero au Rhea",
+    "pronoun": "he",
+    "color": "Gold",
+    "house": "House Augustus",
+    "background": "A character known for his cunning and manipulative nature.",
+    "keyEvents": [
+      "Forms alliances to secure power",
+      "Is involved in key betrayals"
+    ]
+  },
+  {
+    "name": "Darrow's Grandmother",
+    "pronoun": "she",
+    "color": "Red",
+    "house": "House Mars",
+    "background": "A matriarch who represents the resilience of the Red class.",
+    "keyEvents": [
+      "Influences Darrow's values and beliefs",
+      "Embodies the struggles of her people"
+    ]
+  },
+  {
+    "name": "Eris au Bellona",
+    "pronoun": "she",
+    "color": "Gold",
+    "house": "House Bellona",
+    "background": "A Gold known for her ambition and fierce loyalty to her family.",
+    "keyEvents": [
+      "Plays a role in family dynamics and conflicts",
+      "Challenges the status quo among the Golds"
+    ]
+  }
+]
